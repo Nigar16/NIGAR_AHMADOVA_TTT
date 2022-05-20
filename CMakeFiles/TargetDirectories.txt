@@ -1,0 +1,3 @@
+/Users/nigar/Desktop/Tic tac toe/CMakeFiles/TicTacToe.dir
+/Users/nigar/Desktop/Tic tac toe/CMakeFiles/edit_cache.dir
+/Users/nigar/Desktop/Tic tac toe/CMakeFiles/rebuild_cache.dir
